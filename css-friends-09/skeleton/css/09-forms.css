@@ -1,0 +1,12 @@
+/* PHASE 9: Forms */
+.input {
+  /* background-color: aqua; */
+  display: flex;
+  /* flex-direction: column; */
+  /* width: 500px; */
+}
+
+#post-form {
+  border: 1px solid black;
+  /* flex-direction: column; */
+}
